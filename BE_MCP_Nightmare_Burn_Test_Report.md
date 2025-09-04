@@ -9,6 +9,8 @@ The BE-MCP server with custom endpoint handler implementation has successfully c
 
 **Key Result: The server achieved NIGHTMARE SLAYER status with a 99.72% success rate across 140,699 total requests.**
 
+Test Recording:
+https://www.youtube.com/watch?v=pofUB0X3afQ
 ---
 
 ## Test Overview
@@ -287,5 +289,6 @@ For questions regarding this test report or BE-MCP server implementation:
 - **Server Version**: BE-MCP v0.12 with custom endpoint handler
 
 ---
+
 
 *This report validates the successful implementation of the custom MCP endpoint system and confirms production readiness for Continue.dev VSCodium integration.*
