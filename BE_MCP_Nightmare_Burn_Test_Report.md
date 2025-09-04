@@ -22,6 +22,13 @@ https://www.youtube.com/watch?v=pofUB0X3afQ
 - **Test Framework**: Custom HTTP-based nightmare suite
 - **Architecture**: BE-MCP v0.12 with custom endpoint handler
 
+### (Test Environment Information)
+- Debian 12 and Xubuntu 25.04 running on a shared ProxMox Host
+- AMD FX 8350 8 Core CPU @ 4.1Ghz concurrent
+- System RAM 32GB DDR3 1333mhz (16GB allocated to MCP VM, 8GB to Claude VM)
+- 370GB HDD 7200RPM SATA 6 (No SSD)
+- 1GBit/s shared NIC
+
 ### Test Objectives
 1. Validate custom MCP endpoint system under extreme load
 2. Test concurrent handling capabilities with high worker counts
@@ -292,3 +299,4 @@ For questions regarding this test report or BE-MCP server implementation:
 
 
 *This report validates the successful implementation of the custom MCP endpoint system and confirms production readiness for Continue.dev VSCodium integration.*
+
